@@ -71,6 +71,28 @@ This repository includes:
 
 ---
 
+
+### Overall Accuracy
+
+![Overall Accuracy](overall%20accuracy.png)
+
+---
+
+### Low SNR Accuracy
+
+![Low SNR Accuracy](low%20snr%20accuracy.png)
+
+---
+
+### CLDNN Performance at 0 dB
+
+![CLDNN at 0 dB](cldnn%20at%200db.png)
+
+---
+
+### Attention-CLDNN Performance at 0 dB
+
+![Attention CLDNN at 0 dB](attention%20cldnn%20at%200db.png)
 ## Technologies Used
 
 - Python
